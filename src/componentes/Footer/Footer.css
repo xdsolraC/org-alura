@@ -1,0 +1,29 @@
+.footer{
+    width: 100%;
+    display: flex;
+    padding: 5%;
+    align-items: center;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    justify-content: space-between;
+    color: #fff;
+    font-family: 'Monserrat', sans-serif;
+    font-size: 20px;
+}
+
+.redes img{
+    padding: 0px 15px;
+}
+
+.creditos{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.creditos a{
+    text-decoration: none;
+    color: #fff;
+}
